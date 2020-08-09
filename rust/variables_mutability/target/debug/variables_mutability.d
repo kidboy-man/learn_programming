@@ -1,0 +1,1 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/variables_mutability/target/debug/variables_mutability: /Users/kidboy/Programming/github.com/learn_programming/rust/variables_mutability/src/main.rs
