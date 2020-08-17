@@ -1,0 +1,13 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/url-5241157b2c7eeb43.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/url-5241157b2c7eeb43.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/host.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/origin.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/parser.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/path_segments.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/query_encoding.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/slicing.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/form_urlencoded.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.1.1/src/quirks.rs:

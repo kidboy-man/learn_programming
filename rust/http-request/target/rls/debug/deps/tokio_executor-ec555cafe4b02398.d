@@ -1,0 +1,11 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/tokio_executor-ec555cafe4b02398.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/tokio_executor-ec555cafe4b02398.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs:

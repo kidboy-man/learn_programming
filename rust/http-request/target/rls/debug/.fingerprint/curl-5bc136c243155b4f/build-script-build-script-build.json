@@ -1,0 +1,1 @@
+{"rustc":18294140696443704520,"features":"[\"default\", \"openssl-probe\", \"openssl-sys\", \"ssl\"]","target":10088282520713642473,"profile":11677938664258541388,"path":10521187757605922,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/curl-5bc136c243155b4f/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":7202525957011428480}

@@ -1,0 +1,11 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/tokio_udp-f6116536f6943a2d.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/frame.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/recv_dgram.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/send_dgram.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/socket.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/libtokio_udp-f6116536f6943a2d.rlib: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/frame.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/recv_dgram.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/send_dgram.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/socket.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/tokio_udp-f6116536f6943a2d.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/frame.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/recv_dgram.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/send_dgram.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/socket.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/frame.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/recv_dgram.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/send_dgram.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-udp-0.1.6/src/socket.rs:

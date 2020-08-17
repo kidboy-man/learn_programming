@@ -1,0 +1,15 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/curl-10284524bcd9ff91.rmeta: /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/lib.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/error.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/version.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/mod.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/form.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/handle.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/handler.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/list.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/windows.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/multi.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/panic.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/curl-10284524bcd9ff91.d: /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/lib.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/error.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/version.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/mod.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/form.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/handle.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/handler.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/list.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/windows.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/multi.rs /Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/panic.rs
+
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/lib.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/error.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/version.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/mod.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/form.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/handle.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/handler.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/list.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/easy/windows.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/multi.rs:
+/Users/kidboy/.cargo/git/checkouts/curl-rust-63d99e1eadea31e3/428fbe8/src/panic.rs:

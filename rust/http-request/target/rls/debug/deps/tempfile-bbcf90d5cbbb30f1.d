@@ -1,0 +1,12 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/tempfile-bbcf90d5cbbb30f1.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/dir.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/error.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/mod.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/imp/mod.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/spooled.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/util.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/imp/unix.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/tempfile-bbcf90d5cbbb30f1.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/dir.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/error.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/mod.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/imp/mod.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/spooled.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/util.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/imp/unix.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/dir.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/error.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/mod.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/imp/mod.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/spooled.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/util.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.1.0/src/file/imp/unix.rs:

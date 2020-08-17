@@ -1,0 +1,10 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/crossbeam_queue-e9659a47cc636096.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/libcrossbeam_queue-e9659a47cc636096.rlib: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/crossbeam_queue-e9659a47cc636096.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs:

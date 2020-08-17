@@ -1,0 +1,12 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/tracing-b875f1e2e1bb9a84.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/macros.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/dispatcher.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/field.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/level_filters.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/span.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/stdlib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/subscriber.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/rls/debug/deps/tracing-b875f1e2e1bb9a84.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/macros.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/dispatcher.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/field.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/level_filters.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/span.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/stdlib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/subscriber.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/macros.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/dispatcher.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/field.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/level_filters.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/span.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/stdlib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.19/src/subscriber.rs:

@@ -1,0 +1,10 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/native_tls-4a2a4e78a19fc90d.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/mod.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/security_framework.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/imp/security_framework.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/libnative_tls-4a2a4e78a19fc90d.rlib: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/mod.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/security_framework.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/imp/security_framework.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/native_tls-4a2a4e78a19fc90d.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/mod.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/security_framework.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/imp/security_framework.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/mod.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/backend/security_framework.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.1.5/src/imp/security_framework.rs:

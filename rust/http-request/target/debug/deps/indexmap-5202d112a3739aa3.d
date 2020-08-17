@@ -1,0 +1,13 @@
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/indexmap-5202d112a3739aa3.rmeta: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/macros.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/equivalent.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/mutable_keys.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/util.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core/raw.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/set.rs
+
+/Users/kidboy/Programming/github.com/learn_programming/rust/http-request/target/debug/deps/indexmap-5202d112a3739aa3.d: /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/lib.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/macros.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/equivalent.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/mutable_keys.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/util.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core/raw.rs /Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/set.rs
+
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/lib.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/macros.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/equivalent.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/mutable_keys.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/util.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core/raw.rs:
+/Users/kidboy/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/set.rs:
